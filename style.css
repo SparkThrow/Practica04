@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*-----global-----*/
+
+main{
+    width: 960px;
+    font-family: Arial;
+}
+
+/*-------mis skills-------*/
+
+.gr-pract{
+    height: 424px;
+}
+
+section h2{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 27px;
+    padding-bottom: 25px;
+}
+
+.theme-2{
+    background: #9022FF;
+}
+
+.theme-2 h2{
+    color: #26CC4B;
+}
+
+.content-skills{
+    width: 840px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-skills .grupo-skills{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+
+.content-skills .grupo-skills .card-skill h3{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills{
+    width: 403px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .ind-skl{
+    height: 20px;
+    background-color: #57EFF9;
+    border-radius: 10px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .indicador-1{
+    width: 319px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .indicador-2{
+    width: 64px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .indicador-3{
+    width: 215px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .indicador-4{
+    width: 339px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .indicador-5{
+    width: 363px;
+}
+
+.content-skills .grupo-skills .card-skill .rec-skills .indicador-6{
+    width: 185px;
+}
+
