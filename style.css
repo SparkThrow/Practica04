@@ -4,9 +4,9 @@
 }
 
 .CajaPrincipal{
-    margin: border red;
-    width: 1000px;
-    height: 1000px;
+    width: 960px;
+    height: 2632px;
+  
 }
 
 
@@ -21,8 +21,21 @@
     
 }
 
+.Textoletras{
+    width: 245px;
+    height: 80px;
+    margin-top: 255px;
+    margin-left: 145px;
+    background: rgba(114, 153, 254, 0.50);
+    border-radius: 5px;
+    
+    
+    
+}
+
 .Titulo{
     display: flex;
     justify-content: center;
     font-size: 35px;
+    
 }
