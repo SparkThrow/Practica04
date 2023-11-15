@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    width: 1000px;
+    margin:  0 auto;
+}
+
 .CajaPrincipal{
     width: 960px;
     height: 2632px;
@@ -93,6 +98,7 @@
 main{
     width: 960px;
     font-family: Arial;
+    margin: 0 auto;
 }
 
 /*-------mis skills-------*/
