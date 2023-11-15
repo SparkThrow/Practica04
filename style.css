@@ -26,3 +26,34 @@
     justify-content: center;
     font-size: 35px;
 }
+
+.container2{
+   
+    background-color:#FFD233;
+    padding: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 100%;
+    height: auto;
+}
+.container3, .container4 {
+display: flex;
+justify-content: center;
+margin-top: 10px;
+}
+.img13,.img14,.img15,.img16{
+    flex-shrink: 1;
+}
+.portafolio {
+    display: flex;
+    justify-content: center;
+    color: #00AD84;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+.img23{
+    margin: 10px;
+    height: 92px;
+    width: 140px;
+}
