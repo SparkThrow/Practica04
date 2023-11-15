@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.CajaPrincipal{
+    margin: border red;
+    width: 1000px;
+    height: 1000px;
+}
+
+d
+.Caja1{
+    width: 960px;
+    height: 525px;
+    background-image: url(./Mask\ Group.png);
+    background-repeat: no-repeat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: #fff;
+    
+}
+
+.Titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
