@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+
     box-sizing: border-box;
 }
 
@@ -15,6 +16,13 @@ body{
   
 }
 
+
+
+.CajaPrincipal{
+    margin: border red;
+    width: 1000px;
+    height: 1000px;
+}
 
 .Caja1{
     width: 960px;
@@ -253,4 +261,67 @@ margin-top: 10px;
 .cards-clientes .img-3{
     width: 194px;
     height: 67px;
+
+}
+
+.contacto{
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 15px;
+}
+
+.Contenido_contacto{
+    background-color: #1687A0;
+    width: 960px;
+    height: 578px;
+}
+
+.bloques{
+    width: 363px;
+    height: 59px;
+    margin:10px 0;
+    justify-content: space-around;
+    text-indent: 8px;
+
+}
+
+.bloque_grande{
+    width: 759px;
+    height: 112px;
+    text-indent: 8px;
+    text-align: start;
+}
+
+.botom{
+    background-color:#233451;
+    color: white;
+    height: 50px ;
+    width: 167px;
+    margin-top: 40px;
+}
+
+.fila1{
+    display: flex;
+    gap: 28px;
+}
+
+.fila2{
+    display: flex;
+    gap: 28px;
+}
+
+.fila3{
+    margin-top: 20px;
+}
+
+.fila4{
+    margin-top: 10px;
+    padding: 0 38%;
+
+}
+
+.contenido{
+    padding: 0 70px;
+    margin-top: 20px;
 }
